@@ -43,6 +43,9 @@ $emb = $model->embeddings("Text");
 
 To fine-tune a model you will need a large amount of in-domain text and use Python in a machine with a GPU. See [tuning](tuning/) for details.
 
+## Links
+https://openhub.net/p/Ropherta
+
 ## Sponsors
 
 We thank our sponsor:
